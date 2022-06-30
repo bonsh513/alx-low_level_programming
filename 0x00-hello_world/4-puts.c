@@ -1,8 +1,12 @@
 #include <stdio.h>
+/*
+ *
+ * main is the fucntion that holds the code block
+ *
+ */
 
-int main()
+int main(void)
 {
-	puts("programming is like building a multilingual puzzel");
-	
+	puts ("Programming is like building a multilingual puzzle\n");
 	return(0);
 }
