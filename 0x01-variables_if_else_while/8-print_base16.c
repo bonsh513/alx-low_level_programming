@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - print base16
  *
- * Return: 0 (success)
+ * Return:0 success
  */
 int main(void)
 {
